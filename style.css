@@ -106,6 +106,7 @@ header {
 .btn:hover {
     color: #ffffff;
     background-color: #caaeff;
+    border: #caaeff;
 }
 
 /* cards de produtos */
