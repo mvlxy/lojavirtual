@@ -22,7 +22,7 @@ body {
     background-color: #f8f8f8;
 }
 
-.header {
+header {
     background-color: #8a63d2;
     padding: 0.8rem;
     text-align: center;
@@ -104,8 +104,10 @@ body {
 }
 
 .btn:hover {
+    position: relative;
     color: #ffffff;
     background-color: #caaeff;
+    border: 1px solid #caaeff;
 }
 
 /* cards de produtos */
